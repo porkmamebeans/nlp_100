@@ -2,7 +2,7 @@
 Coding exercise of NLP using a set of questions made by Inui-Okazaki Laboratory.
 There are 10 sections and the number of directories corresponds to the one of sections.
 
-Please refer to [http://www.cl.ecei.tohoku.ac.jp/nlp100/#data](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
+Please refer to [http://www.cl.ecei.tohoku.ac.jp/nlp100](http://www.cl.ecei.tohoku.ac.jp/nlp100/)
 
 Here are a data set and corpus to be used in this bootcamp which can be downloaded below.
 * [hightemp.txt](http://www.cl.ecei.tohoku.ac.jp/nlp100/data/hightemp.txt): [気象庁](http://www.jma.go.jp/jma/index.html)が公開している[「歴代全国ランキング>観測史上の順位>最高気温の高い方から」](http://www.data.jma.go.jp/obd/stats/etrn/view/rankall.php?prec_no=&block_no=&year=&month=&day=&view=)を基に，手作業でタブ区切り形式に整形したものです．利用規約等は[こちらのページ](http://www.jma.go.jp/jma/kishou/info/coment.html)を参照して下さい．
